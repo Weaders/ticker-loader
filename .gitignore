@@ -1,0 +1,67 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio / VS Code / Rider
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## Test / coverage
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+*.coveragexml
+coverage*.json
+coverage*.xml
+TestResults/
+
+## NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## .NET tooling
+.dotnet/
+tools/
+*.dll.config
+*.exe.config
+
+## User-specific / local config (may contain secrets)
+appsettings.Development.json
+appsettings.*.local.json
+secrets.json
+*.pfx
+*.publishsettings
+
+## OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+## Misc
+*.log
+*.tmp
+*.temp
+*.swp
+*~
+_hdr.csx
